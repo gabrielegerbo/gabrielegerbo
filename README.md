@@ -1,4 +1,6 @@
-### Hi there 👋
+👋 Hi, I'm Gabriele<br/>
+🔭 I'm currently developing web platforms in php, mysql, css, html, js, ajax<br/>
+👯 I'm available for web projects as a full stack developer<br/>
 
 <!--
 **gabrielegerbo/gabrielegerbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
